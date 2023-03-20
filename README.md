@@ -1,6 +1,6 @@
 # Nanum Myeongjo
 
-[네이버 방문하기](https://hangeul.naver.com/font) · [폰트 다운로드](https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo/NanumMyeongjo.zip)
+[Visit Naver](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo/NanumMyeongjo.zip)
 
 &nbsp;
 
