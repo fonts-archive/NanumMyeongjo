@@ -15,7 +15,7 @@ font-family: 'Nanum Myeongjo';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.statically.io/gh/fonts-archive/NanumMyeongjo/main/NanumMyeongjo.css"/>
+<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumMyeongjo/main/NanumMyeongjo.css'/>
 ```
 
 &nbsp;
